@@ -1,4 +1,4 @@
-## Olá! Eu sou a Eduarda Carvalho
+<h1 align="center"> Olá! Eu sou a Eduarda Carvalho </h1>
 <div  style="display: inline_block"> 
  <img align="right" src="https://i.picasion.com/pic92/21a05531b85fa3122249b87cc9018b0b.gif" height="150" style="border-radius:50px;"  alt="https://picasion.com/" />
 </div>  
