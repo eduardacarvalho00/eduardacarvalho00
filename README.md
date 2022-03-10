@@ -5,7 +5,7 @@
 
 ### Sobre mim
 - 🌱 Tenho 17 anos e estou graduando em Análise e Desenvolvimento de Sistemas da Anhembi Morumbi, concluindo em 2023
-- 📚  Estudando qualificações para ser uma desenvolvedora **FrontEnd** em cursos como a Alura e Rocketseat
+- 📚  Estudando qualificações em cursos como a Alura e Rocketseat para ser uma desenvolvedora **FrontEnd**
 
 ##
 
