@@ -1,15 +1,15 @@
 <h1 align="center"> Olá! Eu sou a Eduarda Carvalho </h1>
-<div  align="center" > 
- <img src="https://i.picasion.com/pic92/21a05531b85fa3122249b87cc9018b0b.gif" height="150" style="border-radius:50px;"  alt="https://picasion.com/" />
-</div>  
 
 ### Sobre mim
 - 🌱 Tenho 17 anos e estou graduando em Análise e Desenvolvimento de Sistemas da Anhembi Morumbi, concluindo em 2023
 - 📚  Estudando qualificações em cursos como a Alura e Rocketseat para ser uma desenvolvedora **FrontEnd** e futuramente FullStack
 
-##
 
-  
+<div align="center"> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardacarvalho00&layout=compact&langs_count=7&theme=dracula"/>
+</div>  
+ 
+## 
 <div style="display: inline_block"><br>
   <img align="center" alt="Duda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Duda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
