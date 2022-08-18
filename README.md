@@ -47,6 +47,6 @@
 ### ✍️ Random Dev Quote
 
 <div align="center"> 
-<img  align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=codeSTACKr">
+<img  align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Dark">
 </div>  
 
