@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Tenho 17 anos e estou cursando Análise e Desenvolvimento de Sistemas, concluindo em junho 2024<br>📚 Estudando qualificações em cursos como a Alura e Rocketseat para ser uma desenvolvedora FrontEnd e futuramente FullStack
+🌱 Tenho 18 anos e estou cursando Análise e Desenvolvimento de Sistemas, concluindo em junho 2024<br>📚 Estudando qualificações em cursos como a Alura e Rocketseat para ser uma desenvolvedora FrontEnd e futuramente FullStack
 
 </br>
 
