@@ -22,8 +22,7 @@
 
 <div align="center"> 
   
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=100%&theme=codeSTACKr&hide_border=false&username=eduardacarvalho00" height="228" width= "100%" />
- 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&card_width=100%&theme=codeSTACKr&langs_count=8&hide_border=false&username=eduardacarvalho00" height="228" width= "100%" />
 </div> 
 
 ## 🌐 Socials:
