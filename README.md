@@ -21,8 +21,8 @@
 # 📊 GitHub Stats:
 
 <div align="center"> 
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=codeSTACKr&hide_border=false&username=eduardacarvalho00" height="228" alt="languages graph"  />
+  
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=100%&theme=codeSTACKr&hide_border=false&username=eduardacarvalho00" height="228" width= "100%" />
  
 </div> 
 
