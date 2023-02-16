@@ -1,6 +1,12 @@
 # 💫 About Me:
 🌱 Tenho 18 anos e estou cursando Análise e Desenvolvimento de Sistemas, concluindo em junho 2024<br>📚 Estudando qualificações em cursos como a Alura e Rocketseat para ser uma desenvolvedora FrontEnd e futuramente FullStack
 
+<div align="center"> 
+  
+ ![Debbie Balboa](https://user-images.githubusercontent.com/99972177/219480150-fb9127b6-b67b-4249-af97-2f8628a58095.gif)
+  
+</div>
+
 </br>
 
 # 💻 Tech Stack:
