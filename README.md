@@ -9,7 +9,7 @@
 
 </br>
 
-# 💻 Tech Stack:https://vitest.dev/logo-shadow.svg
+# 💻 Tech Stack:
 
 <div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
