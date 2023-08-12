@@ -1,5 +1,8 @@
 # 💫 About Me:
-🌱 Tenho 18 anos e estou cursando Análise e Desenvolvimento de Sistemas, concluindo em junho 2024<br>📚 Estudando qualificações em cursos como a Alura e Rocketseat para ser uma desenvolvedora FrontEnd e futuramente FullStack
+🌱 Tenho 18 anos e estou cursando Análise e Desenvolvimento de Sistemas, concluindo em junho 2024<br>
+📚 Estudando qualificações em cursos como a Alura e Rocketseat para ser uma desenvolvedora FrontEnd e futuramente FullStack</br>
+🚩 Atualmente, estou trilhando meu caminho como Dev Frontend Jr, apaixonada por criar experiências web incríveis. Minha jornada no mundo da tecnologia é guiada por minha curiosidade inabalável e sede de aprendizado.
+
 
 <div align="center"> 
   
@@ -57,3 +60,7 @@
 <img  align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&">
 </div>  
 
+##
+
+🐈‍⬛ Além disso, sou um amante de gatinhos e afoito por momentos fofos. Quando não estou imerso em linhas de código ou explorando o cosmos, você provavelmente me encontrará brincando com meus amigos felinos.
+Sinta-se à vontade para explorar meus repositórios e compartilhar o entusiasmo pela tecnologia, gatinhos e o infinito espaço sideral! 🌌🐈‍⬛🌟
