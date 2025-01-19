@@ -1,7 +1,6 @@
 # 💫 About Me:
-🌱 Tenho 20 anos e estou cursando Análise e Desenvolvimento de Sistemas, concluindo em junho 2024<br>
-📚 Estudando qualificações em cursos como a Alura e Rocketseat para ser uma desenvolvedora FrontEnd e futuramente FullStack</br>
-🚩 Atualmente, estou trilhando meu caminho como Dev Frontend Jr, apaixonada por criar experiências web incríveis. Minha jornada no mundo da tecnologia é guiada por minha curiosidade inabalável e sede de aprendizado.
+🌱 Tenho 20 anos, graduada em Análise e Desenvolvimento de Sistemas concluído em junho 2024<br>
+📚 Desenvolvedora Front end Pleno, com a meta de se tornar uma especialista! </br>
 
 
 <div align="center"> 
