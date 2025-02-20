@@ -1,4 +1,5 @@
 <div align="center"><strong >Desenvolvedora Front end Pleno</strong></div>
+<br>
 ✨Olá, é um prazer te-lo em minha página do github. Me chamo Eduarda e tenho 20 anos, graduada em Análise e Desenvolvimento de Sistemas concluído em junho 2024. Tenho como meta de carreira me tornar uma especialista - tanto em Front, Back e DevOps.<br>
 <br>
 
