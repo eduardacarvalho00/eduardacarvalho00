@@ -1,7 +1,6 @@
-# 💫 About Me:
-🌱 Tenho 20 anos, graduada em Análise e Desenvolvimento de Sistemas concluído em junho 2024<br>
-📚 Desenvolvedora Front end Pleno, com a meta de se tornar uma especialista! </br>
-
+<div align="center"><strong >Desenvolvedora Front end Pleno</strong></div>
+✨Olá, é um prazer te-lo em minha página do github. Me chamo Eduarda e tenho 20 anos, graduada em Análise e Desenvolvimento de Sistemas concluído em junho 2024. Tenho como meta de carreira me tornar uma especialista - tanto em Front, Back e DevOps.<br>
+<br>
 
 <div align="center"> 
   
@@ -11,7 +10,7 @@
 
 </br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <div style="display: inline_block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -27,7 +26,7 @@
 </div> 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center"> 
   
@@ -38,9 +37,6 @@
 ## 🌐 Socials:
   <a href="https://www.linkedin.com/in/eduardacarvalho9833/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a target="_blank" href="https://discordapp.com/users/891666604587376690" >
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="mailto:eduardacarvalhoraimundo@gmail.com"  target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -61,5 +57,5 @@
 
 ##
 
-🐈‍⬛ Além disso, sou um amante de gatinhos e afoito por momentos fofos. Quando não estou imerso em linhas de código ou explorando o cosmos, você provavelmente me encontrará brincando com meus amigos felinos.
-Sinta-se à vontade para explorar meus repositórios e compartilhar o entusiasmo pela tecnologia, gatinhos e o infinito espaço sideral! 🌌🐈‍⬛🌟
+Além disso, sou um amante de gatinhos. Quando não estou imerso em linhas de código você provavelmente me encontrará brincando com meus amigos felinos.
+Sinta-se à vontade para explorar meus repositórios e compartilhar o entusiasmo pela tecnologia. 🐈‍⬛🌟
